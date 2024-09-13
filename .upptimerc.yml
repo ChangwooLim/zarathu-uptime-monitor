@@ -3,26 +3,28 @@ owner: ChangwooLim # Your GitHub organization or username, where this repository
 repo: zarathu-uptime-monitor # The name of this repository
 
 sites:
-  - name: 차라투 커뮤니티(Community)
+  - name: Community - 차라투 커뮤니티
     url: https://community.zarathu.com
-  - name: openstat
+  - name: openstat - 오픈스탯
     url: https://openstat.ai
-  - name: 연구실록(RNDSillog)
+  - name: RNDSillog - 연구실록
     url: https://rndsillog.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /zarathu-uptime-monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://github.com/zarathucorp/homepagedatastorage/blob/main/img/logo/Zarathu%20Circle%20Outlined%20White_300by300.png?raw=true
+  name: 차라투 모니터링 시스템
+  introTitle: "**차라투** 모니터링 시스템입니다."
+  introMessage: 차라투 서비스 현황을 안내하는 모니터링 시스템입니다. 
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Homepage
+      href: https://zarathu.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
