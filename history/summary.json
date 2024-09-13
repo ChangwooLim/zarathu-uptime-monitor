@@ -77,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/js.rstudio3.zarathu.com.ico",
     "slug": "shiny-service-js-rstudio3",
     "status": "up",
-    "uptime": "0.93%",
-    "uptimeDay": "0.93%",
-    "uptimeWeek": "0.93%",
-    "uptimeMonth": "0.93%",
-    "uptimeYear": "0.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 666,
     "timeDay": 666,
     "timeWeek": 666,
     "timeMonth": 666,
     "timeYear": 666,
-    "dailyMinutesDown": {
-      "2024-09-13": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
