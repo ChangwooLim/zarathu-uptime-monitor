@@ -15,6 +15,10 @@ sites:
     url: https://js.rstudio3.zarathu.com/shiny/
   - name: Server for Internship
     url: https://intern.zarathu.com
+  - name: API(83)
+    url: https://api2.zarathu.com
+  - name: Community Dev
+    url: https://community.dev.zarathu.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
