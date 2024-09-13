@@ -16,8 +16,9 @@ sites:
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  cname: servicestatus.zarathu.com
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /zarathu-uptime-monitor
+  # baseUrl: /zarathu-uptime-monitor
   logoUrl: https://github.com/zarathucorp/homepagedatastorage/blob/main/img/logo/Zarathu%20Circle%20Outlined%20White_300by300.png?raw=true
   name: 차라투 모니터링 시스템
   introTitle: "**차라투** 모니터링 시스템입니다."
@@ -25,8 +26,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
     - title: Homepage
       href: https://zarathu.com
 
