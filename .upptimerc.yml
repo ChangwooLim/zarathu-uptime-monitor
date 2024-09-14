@@ -13,6 +13,8 @@ sites:
     url: https://intern.zarathu.com
   - name: API(83)
     url: https://api2.zarathu.com
+    expectedStatusCodes:
+      - 404
   - name: Community Dev
     url: https://community.dev.zarathu.com/
 
