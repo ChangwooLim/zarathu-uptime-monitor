@@ -9,10 +9,6 @@ sites:
     url: https://openstat.ai
   - name: RNDSillog - 연구실록
     url: https://rndsillog.com
-  - name: Shiny Service(82, 10001)
-    url: http://210.116.101.82:10001
-  - name: Shiny Service(js.rstudio3)
-    url: https://js.rstudio3.zarathu.com/shiny/
   - name: Server for Internship
     url: https://intern.zarathu.com
   - name: API(83)
