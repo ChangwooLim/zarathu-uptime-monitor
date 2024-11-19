@@ -4,18 +4,20 @@
     "url": "https://community.zarathu.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.zarathu.com.ico",
     "slug": "community",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 936,
-    "timeDay": 921,
-    "timeWeek": 927,
-    "timeMonth": 939,
-    "timeYear": 936,
-    "dailyMinutesDown": {}
+    "time": 932,
+    "timeDay": 778,
+    "timeWeek": 890,
+    "timeMonth": 929,
+    "timeYear": 932,
+    "dailyMinutesDown": {
+      "2024-11-19": 0
+    }
   },
   {
     "name": "openstat - 오픈스탯",
@@ -77,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api2.zarathu.com.ico",
     "slug": "api-83",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.63%",
+    "uptimeYear": "99.64%",
     "time": 725,
     "timeDay": 715,
     "timeWeek": 723,
@@ -97,17 +99,19 @@
     "url": "https://community.dev.zarathu.com/",
     "icon": "https://icons.duckduckgo.com/ip3/community.dev.zarathu.com.ico",
     "slug": "community-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 797,
-    "timeDay": 828,
-    "timeWeek": 790,
-    "timeMonth": 806,
-    "timeYear": 797,
-    "dailyMinutesDown": {}
+    "time": 794,
+    "timeDay": 701,
+    "timeWeek": 763,
+    "timeMonth": 799,
+    "timeYear": 794,
+    "dailyMinutesDown": {
+      "2024-11-19": 0
+    }
   }
 ]
