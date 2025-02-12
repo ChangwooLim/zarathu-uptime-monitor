@@ -105,19 +105,19 @@
     "url": "https://community.dev.zarathu.com/",
     "icon": "https://icons.duckduckgo.com/ip3/community.dev.zarathu.com.ico",
     "slug": "community-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "86.47%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.91%",
     "time": 832,
-    "timeDay": 2344,
-    "timeWeek": 1211,
-    "timeMonth": 941,
+    "timeDay": 1846,
+    "timeWeek": 1171,
+    "timeMonth": 938,
     "timeYear": 832,
     "dailyMinutesDown": {
-      "2025-02-12": 0
+      "2025-02-12": 195
     }
   }
 ]
