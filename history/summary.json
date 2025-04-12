@@ -4,28 +4,30 @@
     "url": "https://community.zarathu.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.zarathu.com.ico",
     "slug": "community",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 941,
     "timeDay": 744,
     "timeWeek": 934,
     "timeMonth": 906,
     "timeYear": 941,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-12": 2
+    }
   },
   {
     "name": "openstat - 오픈스탯",
     "url": "https://openstat.ai",
     "icon": "https://icons.duckduckgo.com/ip3/openstat.ai.ico",
     "slug": "openstat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1133,
@@ -34,6 +36,7 @@
     "timeMonth": 1067,
     "timeYear": 1133,
     "dailyMinutesDown": {
+      "2025-04-12": 2,
       "2025-01-02": 18
     }
   },
@@ -43,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rndsillog.com.ico",
     "slug": "rnd-sillog",
     "status": "up",
-    "uptime": "95.96%",
+    "uptime": "95.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.96%",
+    "uptimeYear": "95.97%",
     "time": 1177,
     "timeDay": 1022,
     "timeWeek": 1122,
@@ -72,10 +75,10 @@
     "url": "https://intern.zarathu.com",
     "icon": "https://icons.duckduckgo.com/ip3/intern.zarathu.com.ico",
     "slug": "server-for-internship",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1264,
@@ -84,6 +87,7 @@
     "timeMonth": 1219,
     "timeYear": 1264,
     "dailyMinutesDown": {
+      "2025-04-12": 1,
       "2025-01-02": 18
     }
   },
@@ -92,10 +96,10 @@
     "url": "https://api2.zarathu.com",
     "icon": "https://icons.duckduckgo.com/ip3/api2.zarathu.com.ico",
     "slug": "api-83",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 730,
@@ -104,6 +108,7 @@
     "timeMonth": 699,
     "timeYear": 730,
     "dailyMinutesDown": {
+      "2025-04-12": 1,
       "2025-01-02": 18,
       "2024-09-14": 37,
       "2024-09-13": 313
@@ -114,9 +119,9 @@
     "url": "https://community.dev.zarathu.com/",
     "icon": "https://icons.duckduckgo.com/ip3/community.dev.zarathu.com.ico",
     "slug": "community-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -126,6 +131,7 @@
     "timeMonth": 766,
     "timeYear": 819,
     "dailyMinutesDown": {
+      "2025-04-12": 0,
       "2025-02-12": 195
     }
   }
