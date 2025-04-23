@@ -4,18 +4,20 @@
     "url": "https://community.zarathu.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.zarathu.com.ico",
     "slug": "community",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 940,
-    "timeDay": 1054,
-    "timeWeek": 905,
-    "timeMonth": 917,
-    "timeYear": 940,
-    "dailyMinutesDown": {}
+    "time": 951,
+    "timeDay": 2335,
+    "timeWeek": 1244,
+    "timeMonth": 999,
+    "timeYear": 951,
+    "dailyMinutesDown": {
+      "2025-04-23": 0
+    }
   },
   {
     "name": "openstat - 오픈스탯",
