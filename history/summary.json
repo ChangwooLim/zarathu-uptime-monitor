@@ -4,19 +4,19 @@
     "url": "https://community.zarathu.com",
     "icon": "https://icons.duckduckgo.com/ip3/community.zarathu.com.ico",
     "slug": "community",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 951,
-    "timeDay": 2335,
-    "timeWeek": 1244,
-    "timeMonth": 999,
-    "timeYear": 951,
+    "time": 952,
+    "timeDay": 1909,
+    "timeWeek": 1223,
+    "timeMonth": 1001,
+    "timeYear": 952,
     "dailyMinutesDown": {
-      "2025-04-23": 0
+      "2025-04-23": 10
     }
   },
   {
