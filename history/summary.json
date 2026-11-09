@@ -63,7 +63,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-09": 809,
+      "2026-11-09": 817,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
@@ -483,16 +483,16 @@
     "url": "https://community.dev.zarathu.com/",
     "icon": "https://icons.duckduckgo.com/ip3/community.dev.zarathu.com.ico",
     "slug": "community-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "97.97%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.70%",
     "time": 1132,
-    "timeDay": 2297,
-    "timeWeek": 1174,
-    "timeMonth": 959,
+    "timeDay": 1858,
+    "timeWeek": 1156,
+    "timeMonth": 960,
     "timeYear": 1211,
     "dailyMinutesDown": {
       "2026-01-22": 31,
@@ -503,7 +503,7 @@
       "2026-08-11": 159,
       "2026-08-12": 43,
       "2026-11-06": 205,
-      "2026-11-09": 0
+      "2026-11-09": 7
     }
   }
 ]
