@@ -12,8 +12,8 @@
     "uptimeYear": "99.87%",
     "time": 1085,
     "timeDay": 798,
-    "timeWeek": 985,
-    "timeMonth": 791,
+    "timeWeek": 1018,
+    "timeMonth": 795,
     "timeYear": 1136,
     "dailyMinutesDown": {
       "2026-04-09": 173,
@@ -35,8 +35,8 @@
     "uptimeYear": "99.57%",
     "time": 912,
     "timeDay": 977,
-    "timeWeek": 731,
-    "timeMonth": 825,
+    "timeWeek": 736,
+    "timeMonth": 709,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2025-12-31": 556,
@@ -52,7 +52,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rndsillog.com.ico",
     "slug": "rnd-sillog",
     "status": "down",
-    "uptime": "29.62%",
+    "uptime": "29.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -63,7 +63,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-09": 12,
+      "2026-11-09": 809,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
@@ -443,8 +443,8 @@
     "uptimeYear": "99.94%",
     "time": 1669,
     "timeDay": 2528,
-    "timeWeek": 2336,
-    "timeMonth": 2353,
+    "timeWeek": 2320,
+    "timeMonth": 2350,
     "timeYear": 1782,
     "dailyMinutesDown": {
       "2026-02-01": 112,
@@ -465,7 +465,7 @@
     "uptimeYear": "99.91%",
     "time": 865,
     "timeDay": 734,
-    "timeWeek": 667,
+    "timeWeek": 660,
     "timeMonth": 684,
     "timeYear": 908,
     "dailyMinutesDown": {
@@ -483,17 +483,17 @@
     "url": "https://community.dev.zarathu.com/",
     "icon": "https://icons.duckduckgo.com/ip3/community.dev.zarathu.com.ico",
     "slug": "community-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.97%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.70%",
-    "time": 1127,
-    "timeDay": 998,
-    "timeWeek": 900,
-    "timeMonth": 878,
-    "timeYear": 1205,
+    "time": 1132,
+    "timeDay": 2297,
+    "timeWeek": 1174,
+    "timeMonth": 959,
+    "timeYear": 1211,
     "dailyMinutesDown": {
       "2026-01-22": 31,
       "2026-04-09": 173,
@@ -502,7 +502,8 @@
       "2026-08-10": 358,
       "2026-08-11": 159,
       "2026-08-12": 43,
-      "2026-11-06": 205
+      "2026-11-06": 205,
+      "2026-11-09": 0
     }
   }
 ]
