@@ -1,7 +1,7 @@
 url: https://community.zarathu.com
-status: up
-code: 200
-responseTime: 785
-lastUpdated: 2026-11-10T23:03:40.081Z
+status: down
+code: 503
+responseTime: 566
+lastUpdated: 2026-11-11T14:21:42.065Z
 startTime: 2024-09-13T17:40:59.150Z
 generator: Upptime <https://github.com/upptime/upptime>
